@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hi!, I'm awed by the awesome Ansible execution
+          Hi!, my wonderful wife
         </a>
       </header>
     </div>
